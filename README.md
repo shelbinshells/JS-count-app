@@ -1,0 +1,1 @@
+Counter app, as per the challenge given on Scrimba
